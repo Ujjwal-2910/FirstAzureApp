@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzO3jPLKhQPq0KgWl0eBkS6efuU1oib5JaXdxewxg3woA4T9WpUoJTuUZ7NfVTmEM42jAWAltjgWqqezzyh8hA==",
+  "dgSpecHash": "hCbq22PEyEVKZ02ErwKEmyEwLK11Vjcou8SND08dAy/reDBXPrmpZQidTjIERYkqjJzmyzqJeX0yNvrOrrCBzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 32\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 51\\AzureWithGit\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ujjwal Kumar Agrawal\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ujjwal Kumar Agrawal\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

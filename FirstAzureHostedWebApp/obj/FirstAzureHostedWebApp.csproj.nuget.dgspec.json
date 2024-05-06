@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 32\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj": {}
+    "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 51\\AzureWithGit\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 32\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj": {
+    "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 51\\AzureWithGit\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 32\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 51\\AzureWithGit\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
         "projectName": "FirstAzureHostedWebApp",
-        "projectPath": "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 32\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
+        "projectPath": "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 51\\AzureWithGit\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
         "packagesPath": "C:\\Users\\Ujjwal Kumar Agrawal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 32\\FirstMVCApp\\FirstAzureHostedWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Ujjwal Kumar Agrawal\\Desktop\\Eurofins TG Training\\Day 51\\AzureWithGit\\FirstAzureHostedWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ujjwal Kumar Agrawal\\AppData\\Roaming\\NuGet\\NuGet.Config",
